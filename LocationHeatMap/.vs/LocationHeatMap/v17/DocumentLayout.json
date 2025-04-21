@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|d:\\software engineering\\tracker\\locationheatmap\\locationheatmap\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|solutionrelative:locationheatmap\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "LocationHeatMap\\MauiProgram.cs",
+              "ToolTip": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\MauiProgram.cs",
+              "RelativeToolTip": "LocationHeatMap\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:11:55.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
