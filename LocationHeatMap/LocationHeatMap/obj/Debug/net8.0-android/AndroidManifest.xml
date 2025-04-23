@@ -11,7 +11,9 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
   <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-  <application android:allowBackup="true" android:icon="@mipmap/appicon" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true" android:name="crc64b9ab26e94f5f17c2.MainApplication" android:label="LocationHeatMap.LocationHeatMap" android:debuggable="true" android:extractNativeLibs="true">
+  <application android:allowBackup="true" android:icon="@mipmap/appicon" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true" android:theme="@style/Maui.SplashTheme" android:name="crc64b9ab26e94f5f17c2.MainApplication" android:label="LocationHeatMap.LocationHeatMap" android:debuggable="true" android:extractNativeLibs="true">
+    <!-- ✅ ADD THIS: Google Maps API Key -->
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyD-xVUGzbsXqh7aDZjwaUTCcDUDrukdZ5o" />
     <uses-library android:name="org.apache.http.legacy" android:required="false" />
     <activity android:configChanges="density|orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:launchMode="singleTop" android:theme="@style/Maui.SplashTheme" android:name="crc64b9ab26e94f5f17c2.MainActivity" android:exported="true">
       <intent-filter>

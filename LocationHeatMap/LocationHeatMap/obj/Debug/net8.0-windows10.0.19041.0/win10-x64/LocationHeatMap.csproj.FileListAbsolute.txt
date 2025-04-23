@@ -153,6 +153,7 @@ D:\Software Engineering\Tracker\LocationHeatMap\LocationHeatMap\obj\Debug\net8.0
 D:\Software Engineering\Tracker\LocationHeatMap\LocationHeatMap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LocationHeatMap.AssemblyInfoInputs.cache
 D:\Software Engineering\Tracker\LocationHeatMap\LocationHeatMap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LocationHeatMap.AssemblyInfo.cs
 D:\Software Engineering\Tracker\LocationHeatMap\LocationHeatMap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LocationHeatMap.csproj.CoreCompileInputs.cache
+D:\Software Engineering\Tracker\LocationHeatMap\LocationHeatMap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LocationHeatMap.sourcelink.json
 D:\Software Engineering\Tracker\LocationHeatMap\LocationHeatMap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
 D:\Software Engineering\Tracker\LocationHeatMap\LocationHeatMap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Location.214CF7B6.Up2Date
 D:\Software Engineering\Tracker\LocationHeatMap\LocationHeatMap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LocationHeatMap.dll

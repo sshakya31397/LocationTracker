@@ -79,6 +79,10 @@
               "version": "[8.0.15, )",
               "autoReferenced": true
             },
+            "SQLitePCLRaw.provider.dynamic_cdecl": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
             "sqlite-net-pcl": {
               "target": "Package",
               "version": "[1.8.116, )"
@@ -123,6 +127,10 @@
             "Microsoft.Maui.Controls.Maps": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "SQLitePCLRaw.provider.dynamic_cdecl": {
+              "target": "Package",
+              "version": "[2.1.4, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",

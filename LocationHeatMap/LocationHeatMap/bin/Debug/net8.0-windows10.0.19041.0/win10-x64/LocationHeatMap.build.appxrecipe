@@ -301,10 +301,10 @@
     <AppxPackagedFile Include="C:\Users\sauha\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll">
       <PackagePath>SQLitePCLRaw.nativelibrary.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sauha\.nuget\packages\sqlitepclraw.core\2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+    <AppxPackagedFile Include="C:\Users\sauha\.nuget\packages\sqlitepclraw.core\2.1.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
       <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sauha\.nuget\packages\sqlitepclraw.provider.dynamic_cdecl\2.0.4\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll">
+    <AppxPackagedFile Include="C:\Users\sauha\.nuget\packages\sqlitepclraw.provider.dynamic_cdecl\2.1.4\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll">
       <PackagePath>SQLitePCLRaw.provider.dynamic_cdecl.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sauha\.nuget\packages\microsoft.maui.controls.core\8.0.100\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">

@@ -18,7 +18,9 @@
     <!-- Needs to be explicitly declared on Android R+ -->
     <package android:name="com.google.android.apps.maps" />
   </queries>
-  <application android:name="crc64b9ab26e94f5f17c2.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/appicon" android:label="LocationHeatMap.LocationHeatMap" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true">
+  <application android:name="crc64b9ab26e94f5f17c2.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/appicon" android:label="LocationHeatMap.LocationHeatMap" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true" android:theme="@style/Maui.SplashTheme">
+    <!-- ✅ ADD THIS: Google Maps API Key -->
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyD-xVUGzbsXqh7aDZjwaUTCcDUDrukdZ5o" />
     <uses-library android:name="org.apache.http.legacy" android:required="false" />
     <activity android:name="crc64b9ab26e94f5f17c2.MainActivity" android:configChanges="density|orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:launchMode="singleTop" android:theme="@style/Maui.SplashTheme">
       <intent-filter>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W21alcdQQ7w=",
+  "dgSpecHash": "h6oi/p8EFvo=",
   "success": true,
   "projectFilePath": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\LocationHeatMap.csproj",
   "expectedPackageFiles": [
@@ -33,10 +33,10 @@
     "C:\\Users\\sauha\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240802000\\microsoft.windowsappsdk.1.5.240802000.nupkg.sha512",
     "C:\\Users\\sauha\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\sauha\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
-    "C:\\Users\\sauha\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\sauha\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\sauha\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\sauha\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.android\\2.0.4\\sqlitepclraw.lib.e_sqlite3.android.2.0.4.nupkg.sha512",
-    "C:\\Users\\sauha\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\sauha\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.1.4\\sqlitepclraw.provider.dynamic_cdecl.2.1.4.nupkg.sha512",
     "C:\\Users\\sauha\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\sauha\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
     "C:\\Users\\sauha\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",

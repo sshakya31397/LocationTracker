@@ -8,11 +8,12 @@
 
     <Grid>
         <!-- Map view -->
-        <maps:Map x:Name="MyMap"
-                  IsShowingUser="True"
-                  MapType="Street"
-                  VerticalOptions="FillAndExpand"
-                  HorizontalOptions="FillAndExpand" />
+       <maps:Map x:Name="MyMap"
+          IsShowingUser="True"
+          MapType="Street"
+          VerticalOptions="FillAndExpand"
+          HorizontalOptions="FillAndExpand"
+          MapClicked="OnMapClicked" />
 
         <!-- Floating Save Button -->
         <Button Text="Save My Location"

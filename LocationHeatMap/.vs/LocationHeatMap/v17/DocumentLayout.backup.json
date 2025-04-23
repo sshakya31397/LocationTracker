@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|d:\\software engineering\\tracker\\locationheatmap\\locationheatmap\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|solutionrelative:locationheatmap\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|d:\\software engineering\\tracker\\locationheatmap\\locationheatmap\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|solutionrelative:locationheatmap\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "LocationHeatMap\\Services\\LocationService.cs",
+              "ToolTip": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\Services\\LocationService.cs",
+              "RelativeToolTip": "LocationHeatMap\\Services\\LocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:00:47Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "LocationHeatMap\\MauiProgram.cs",
               "ToolTip": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\MauiProgram.cs",
               "RelativeToolTip": "LocationHeatMap\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T19:11:55.048Z",
               "EditorCaption": ""
