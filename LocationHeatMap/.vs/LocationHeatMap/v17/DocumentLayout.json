@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|d:\\software engineering\\tracker\\locationheatmap\\locationheatmap\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|solutionrelative:locationheatmap\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|d:\\software engineering\\tracker\\locationheatmap\\locationheatmap\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|solutionrelative:locationheatmap\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|d:\\software engineering\\tracker\\locationheatmap\\locationheatmap\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|solutionrelative:locationheatmap\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|d:\\software engineering\\tracker\\locationheatmap\\locationheatmap\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|solutionrelative:locationheatmap\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2A73B5B-3504-4F27-9C40-70249325D1D0}|LocationHeatMap\\LocationHeatMap.csproj|d:\\software engineering\\tracker\\locationheatmap\\locationheatmap\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,11 +30,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "LocationHeatMap\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\MainPage.xaml.cs",
+              "RelativeToolTip": "LocationHeatMap\\MainPage.xaml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:42:12.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LocationHeatMap\\App.xaml.cs",
+              "ToolTip": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\App.xaml.cs",
+              "RelativeToolTip": "LocationHeatMap\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:42:09.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "LocationHeatMap\\AppShell.xaml.cs",
+              "ToolTip": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\AppShell.xaml.cs",
+              "RelativeToolTip": "LocationHeatMap\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:42:07.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LocationService.cs",
               "DocumentMoniker": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\Services\\LocationService.cs",
               "RelativeDocumentMoniker": "LocationHeatMap\\Services\\LocationService.cs",
@@ -30,18 +80,17 @@
               "RelativeToolTip": "LocationHeatMap\\Services\\LocationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T01:00:47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T01:00:47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\MauiProgram.cs",
               "RelativeDocumentMoniker": "LocationHeatMap\\MauiProgram.cs",
               "ToolTip": "D:\\Software Engineering\\Tracker\\LocationHeatMap\\LocationHeatMap\\MauiProgram.cs",
               "RelativeToolTip": "LocationHeatMap\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T19:11:55.048Z",
               "EditorCaption": ""

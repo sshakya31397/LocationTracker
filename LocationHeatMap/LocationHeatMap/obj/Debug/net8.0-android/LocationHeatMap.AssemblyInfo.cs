@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocationHeatMap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb82b622e21b21086d0a798528e34a6197a59e13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cd2a1caed225fe9f8d82ff3d267f982341a5950")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocationHeatMap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocationHeatMap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
